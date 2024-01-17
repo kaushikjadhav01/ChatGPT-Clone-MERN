@@ -31,9 +31,8 @@ ChatGPT clone using MongoDB, Express.JS, React.JS, Node.JS
 
 ## System Description and Functions
 ChatGPT clone using MongoDB, Express.JS, React.JS, Node.JS
-<img src="./images/login.png" />
-<img src="./images/signup.png" />
-<img src="./images/chat.png" />
+<img src="./client/src/assets/banner1.png" />
+<img src="./client/src/assets/banner2.png" />
 
 ## Built With
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
@@ -49,9 +48,13 @@ ChatGPT clone using MongoDB, Express.JS, React.JS, Node.JS
 ## Installation
 1. Download & Install Git (https://git-scm.com/downloads)
 2. Download & Install Node.js (https://nodejs.org/en/download/)
-3. Clone repo, cd into it
-4. Get your api key from https://openai.com/api/ and replace it in .env file
+3. Clone repo, cd into ChatGPT/client
+4. Run ```npm install```
 5. Run ```npm run dev```
+6. To launch backend now, open new terminal.
+7. cd into ChatGPT/server
+8. Run ```npm install```
+9. Run ```npm start```
 
 ## Authors
 ### Kaushik Jadhav
